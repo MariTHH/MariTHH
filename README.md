@@ -28,3 +28,4 @@
 <h2>My social:</h2> 
 
 <a href="https://t.me/mariiatt" target="blank"><img align="center" src="https://raw.githubusercontent.com/AliSawari/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="Telegram: Мария Толстых" height="35" width="35" /></a> 
+ <a href="https://gitlab.se.ifmo.ru/mariia_tolstykh" target="_blank" rel="noreferrer"> <img align="left" alt="GitLab" width="70px" src="https://www.logo.wine/a/logo/GitLab/GitLab-Logo.wine.svg"/></a>
