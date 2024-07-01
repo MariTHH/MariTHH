@@ -24,7 +24,7 @@
 - **Web App on JSF:** [GitHub Link](https://github.com/MariTHH/web-mispi-3)
 - **Java Console Application with PostgreSQL:** Registration and authentication with password hashing (MD5), multithreading, and collections handling. [GitHub Link](https://github.com/MariTHH/prog-console-app-lab-7)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NikaT1&hide=php,html&theme=light&langs_count=8&theme=radical&)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariTHH&hide=php,html&theme=light&langs_count=8&theme=radical&)](https://github.com/anuraghazra/github-readme-stats)
   
 <br>
 <h2>My social:</h2> 
